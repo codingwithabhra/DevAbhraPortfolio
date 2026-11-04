@@ -22,7 +22,7 @@ const Projects = () => {
             <div className="col-md-4 mb-4" key={project.id}>
               <div className="card h-100 border-0 shadow-sm transform-card text-white">
                 <div className="img">
-                  <img src={project.imageUrl} alt="" style={{width: "100%", height: "300px", objectFit: "contain"}}/>
+                  <img src={project.imageUrl} alt="" style={{width: "100%",  objectFit: "contain"}}/>
                 </div>
                 <div className="card-body p-4 d-flex flex-column">
                   <h4 className="card-title fw-bold">{project.title}</h4>

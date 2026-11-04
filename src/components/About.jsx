@@ -29,7 +29,8 @@ const About = () => {
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-outline-light"
-              href="https://drive.google.com/drive/folders/1AHRYkYAWIUuOnXWPjCjhmvLxf3lwL1tO?usp=drive_link"
+              href="/AbhraPatra_Resume.pdf"
+              download="AbhraPatra_Resume.pdf"
             >
               Resume
             </a>

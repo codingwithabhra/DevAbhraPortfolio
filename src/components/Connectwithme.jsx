@@ -58,6 +58,20 @@ const Connectwithme = () => {
                 <p className="mb-0 text-secondary">Connect on LinkedIn</p>
               </div>
             </a>
+            <a
+              className="col-md-6 text-decoration-none"
+              href="https://abhra-dev.hashnode.dev/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div className="card h-100 border-0 shadowm-sm p-4 transform-card">
+                <div className="d-flex align-items-center mb-3">
+                  <i class="fa-brands fa-hashnode text-primary fs-3 me-3"></i>
+                  <h3 className="fs-4 mb-0 text-white">Blogs</h3>
+                </div>
+                <p className="mb-0 text-secondary">Read my blogs</p>
+              </div>
+            </a>
           </div>
         </div>
       </div>
