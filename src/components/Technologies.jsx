@@ -26,7 +26,7 @@ const Technologies = () => {
                 <div className="me-3 text-primary fs-2">
                   <i className="fa-brands fa-react"></i>
                 </div>
-                <span className="fs-4 fw-semibold text-white">React</span>
+                <span className="fs-4 fw-semibold text-white">React.js</span>
               </div>
             </div>
             <div className="col-6 col-md-3">
@@ -34,7 +34,7 @@ const Technologies = () => {
                 <div className="me-3 text-primary fs-2">
                   <i className="fa-brands fa-node-js"></i>
                 </div>
-                <span className="fs-4 fw-semibold text-white">Node</span>
+                <span className="fs-4 fw-semibold text-white">Node.js</span>
               </div>
             </div>
             <div className="col-6 col-md-3">
@@ -42,7 +42,7 @@ const Technologies = () => {
                 <div className="me-3 text-primary fs-2">
                   <SiExpress />
                 </div>
-                <span className="fs-4 fw-semibold text-white">Express</span>
+                <span className="fs-4 fw-semibold text-white">Express.js</span>
               </div>
             </div>
             <div className="col-6 col-md-3">
