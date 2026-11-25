@@ -30,7 +30,6 @@ const About = () => {
               rel="noopener noreferrer"
               className="btn btn-outline-light"
               href="/AbhraPatra_Resume.pdf"
-              download="AbhraPatra_Resume.pdf"
             >
               Resume
             </a>
